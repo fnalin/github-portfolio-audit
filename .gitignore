@@ -1,0 +1,29 @@
+# Raw GitHub API data
+data/*.json
+
+# Repositories cloned for local analysis
+repos/*
+!repos/.gitkeep
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
