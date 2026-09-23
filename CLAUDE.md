@@ -23,6 +23,7 @@ Relevant technologies include:
 - Web APIs
 - Entity Framework Core
 - SQL Server
+- MySQL
 - PostgreSQL
 - Docker
 - REST APIs
